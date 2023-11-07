@@ -1,0 +1,5 @@
+Student_id => 2313110476
+Student_name => Naphatsadon Prasakha
+Major => IT
+Level => 1
+Faculty => Information Technology
