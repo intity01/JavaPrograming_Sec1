@@ -1,4 +1,4 @@
 Id:2313110476
 Name-Surname: Naphatsadon Prasakha
-Date: Jan-9-2023
-Topic: Class and Object
+Date: Jan-16-2023
+Topic: Encapsulation Concept
